@@ -10,8 +10,8 @@ import Foundation
 
 enum API {
     enum Credentials {
-        static let ConsumerKey = "rfLAmy3OVrS9VXQZle6fJDnHP9Wug2PBjWJtgW2H"
-        static let ConsumerSecret = "16YUQLdu1O6thmlCa6ULkNVfYUbeqcDTsLlLgz4S"
+        static let ConsumerKey = "VDYwCHJNXjZmjeqAEwMgYgWB6xw9eftQZh0Pcizg"
+        static let ConsumerSecret = "Q36vJv5XgC22ukCFJdeq9QIti1kIOF1PMJwjGxBm"
     }
     enum Endpoints {
         static let APIBaseURL = "https://api.500px.com/v1"
